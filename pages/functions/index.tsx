@@ -12,7 +12,7 @@ const Functions = ({
         apiVersion: process.env.SANITY_STUDIO_API_VERSION,
         useCdn: true,
       });
-      const query = \`*[_type == "function" && !(_id in path("drafts.**"))]\`;
+      const query = \`*[_type == "function" && !(_id in path("drafts.**"))]{name, 'slug': slug.current, tagline, url, blocks[]->{number, abbr, name, 'backgroundColor': backgroundColor.hex, 'foreColor': foreColor.hex}}\`;
       const result = await client.fetch(query);
     
       return {
