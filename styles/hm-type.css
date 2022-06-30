@@ -1,0 +1,231 @@
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("https://app.invicta.io/fonts/SofiaPro-LightItalic.eot");
+  src: url("https://app.invicta.io/fonts/SofiaPro-LightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://app.invicta.io/fonts/SofiaPro-LightItalic.woff2")
+      format("woff2"),
+    url("https://app.invicta.io/fonts/SofiaPro-LightItalic.woff") format("woff"),
+    url("https://app.invicta.io/fonts/SofiaPro-LightItalic.ttf")
+      format("truetype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("https://app.invicta.io/fonts/SofiaPro-Bold.eot");
+  src: url("https://app.invicta.io/fonts/SofiaPro-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://app.invicta.io/fonts/SofiaPro-Bold.woff2") format("woff2"),
+    url("https://app.invicta.io/fonts/SofiaPro-Bold.woff") format("woff"),
+    url("https://app.invicta.io/fonts/SofiaPro-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("https://app.invicta.io/fonts/SofiaPro-BlackItalic.eot");
+  src: url("https://app.invicta.io/fonts/SofiaPro-BlackItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://app.invicta.io/fonts/SofiaPro-BlackItalic.woff2")
+      format("woff2"),
+    url("https://app.invicta.io/fonts/SofiaPro-BlackItalic.woff") format("woff"),
+    url("https://app.invicta.io/fonts/SofiaPro-BlackItalic.ttf")
+      format("truetype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("https://app.invicta.io/fonts/SofiaPro-BoldItalic.eot");
+  src: url("https://app.invicta.io/fonts/SofiaPro-BoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://app.invicta.io/fonts/SofiaPro-BoldItalic.woff2")
+      format("woff2"),
+    url("https://app.invicta.io/fonts/SofiaPro-BoldItalic.woff") format("woff"),
+    url("https://app.invicta.io/fonts/SofiaPro-BoldItalic.ttf")
+      format("truetype");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("https://app.invicta.io/fonts/SofiaPro-Black.eot");
+  src: url("https://app.invicta.io/fonts/SofiaPro-Black.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://app.invicta.io/fonts/SofiaPro-Black.woff2") format("woff2"),
+    url("https://app.invicta.io/fonts/SofiaPro-Black.woff") format("woff"),
+    url("https://app.invicta.io/fonts/SofiaPro-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("https://app.invicta.io/fonts/SofiaPro-Light.eot");
+  src: url("https://app.invicta.io/fonts/SofiaPro-Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://app.invicta.io/fonts/SofiaPro-Light.woff2") format("woff2"),
+    url("https://app.invicta.io/fonts/SofiaPro-Light.woff") format("woff"),
+    url("https://app.invicta.io/fonts/SofiaPro-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("https://app.invicta.io/fonts/SofiaPro-ExtraLightItalic.eot");
+  src: url("https://app.invicta.io/fonts/SofiaPro-ExtraLightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://app.invicta.io/fonts/SofiaPro-ExtraLightItalic.woff2")
+      format("woff2"),
+    url("https://app.invicta.io/fonts/SofiaPro-ExtraLightItalic.woff")
+      format("woff"),
+    url("https://app.invicta.io/fonts/SofiaPro-ExtraLightItalic.ttf")
+      format("truetype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("https://app.invicta.io/fonts/SofiaPro-Medium.eot");
+  src: url("https://app.invicta.io/fonts/SofiaPro-Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://app.invicta.io/fonts/SofiaPro-Medium.woff2") format("woff2"),
+    url("https://app.invicta.io/fonts/SofiaPro-Medium.woff") format("woff"),
+    url("https://app.invicta.io/fonts/SofiaPro-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("https://app.invicta.io/fonts/SofiaPro-ExtraLight.eot");
+  src: url("https://app.invicta.io/fonts/SofiaPro-ExtraLight.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://app.invicta.io/fonts/SofiaPro-ExtraLight.woff2")
+      format("woff2"),
+    url("https://app.invicta.io/fonts/SofiaPro-ExtraLight.woff") format("woff"),
+    url("https://app.invicta.io/fonts/SofiaPro-ExtraLight.ttf")
+      format("truetype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("https://app.invicta.io/fonts/SofiaPro-Italic.eot");
+  src: url("https://app.invicta.io/fonts/SofiaPro-Italic.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://app.invicta.io/fonts/SofiaPro-Italic.woff2") format("woff2"),
+    url("https://app.invicta.io/fonts/SofiaPro-Italic.woff") format("woff"),
+    url("https://app.invicta.io/fonts/SofiaPro-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("https://app.invicta.io/fonts/SofiaPro.eot");
+  src: url("https://app.invicta.io/fonts/SofiaPro.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://app.invicta.io/fonts/SofiaPro.woff2") format("woff2"),
+    url("https://app.invicta.io/fonts/SofiaPro.woff") format("woff"),
+    url("https://app.invicta.io/fonts/SofiaPro.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("https://app.invicta.io/fonts/SofiaPro-MediumItalic.eot");
+  src: url("https://app.invicta.io/fonts/SofiaPro-MediumItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://app.invicta.io/fonts/SofiaPro-MediumItalic.woff2")
+      format("woff2"),
+    url("https://app.invicta.io/fonts/SofiaPro-MediumItalic.woff")
+      format("woff"),
+    url("https://app.invicta.io/fonts/SofiaPro-MediumItalic.ttf")
+      format("truetype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("https://app.invicta.io/fonts/SofiaPro-SemiBold.eot");
+  src: url("https://app.invicta.io/fonts/SofiaPro-SemiBold.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://app.invicta.io/fonts/SofiaPro-SemiBold.woff2") format("woff2"),
+    url("https://app.invicta.io/fonts/SofiaPro-SemiBold.woff") format("woff"),
+    url("https://app.invicta.io/fonts/SofiaPro-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("https://app.invicta.io/fonts/SofiaPro-SemiBoldItalic.eot");
+  src: url("https://app.invicta.io/fonts/SofiaPro-SemiBoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://app.invicta.io/fonts/SofiaPro-SemiBoldItalic.woff2")
+      format("woff2"),
+    url("https://app.invicta.io/fonts/SofiaPro-SemiBoldItalic.woff")
+      format("woff"),
+    url("https://app.invicta.io/fonts/SofiaPro-SemiBoldItalic.ttf")
+      format("truetype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("https://app.invicta.io/fonts/SofiaPro-UltraLight.eot");
+  src: url("https://app.invicta.io/fonts/SofiaPro-UltraLight.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://app.invicta.io/fonts/SofiaPro-UltraLight.woff2")
+      format("woff2"),
+    url("https://app.invicta.io/fonts/SofiaPro-UltraLight.woff") format("woff"),
+    url("https://app.invicta.io/fonts/SofiaPro-UltraLight.ttf")
+      format("truetype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sofia Pro";
+  src: url("https://app.invicta.io/fonts/SofiaPro-UltraLightItalic.eot");
+  src: url("https://app.invicta.io/fonts/SofiaPro-UltraLightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://app.invicta.io/fonts/SofiaPro-UltraLightItalic.woff2")
+      format("woff2"),
+    url("https://app.invicta.io/fonts/SofiaPro-UltraLightItalic.woff")
+      format("woff"),
+    url("https://app.invicta.io/fonts/SofiaPro-UltraLightItalic.ttf")
+      format("truetype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@import url("http://fonts.cdnfonts.com/css/jetbrains-mono");
